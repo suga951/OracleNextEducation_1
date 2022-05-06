@@ -173,6 +173,7 @@ body {
     display:inline-block;
     position: relative;
     left: 38%;
+    top: -38%;
     color: white;
     padding: 1em;
     font-family: 'Montserrat', sans-serif;
