@@ -3,18 +3,15 @@ const btnDesecnriptar = document.querySelector("#btnDesencriptar");
 var textArea1 = document.getElementById("aEncriptar");
 var textArea2 = document.getElementById("textoEncriptado");
 
-
 btnEncriptar.onclick = function() {
 
     encriptar();
 };
 
-
 btnDesecnriptar.onclick = function() {
     
     desencriptar();
 }
-
 
 function encriptar() {
 
